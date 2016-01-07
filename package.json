@@ -24,7 +24,7 @@
     "react": ">=0.13"
   },
   "dependencies": {
-    "c3": "^0.4.10",
+    "c3": "git+https://github.com/vtfuture/c3.git",
     "d3": "3.5",
     "lodash": "^3.9.3"
   },
